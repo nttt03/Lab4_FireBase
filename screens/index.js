@@ -1,2 +1,4 @@
 import { SignupScreen } from "./SignupScreen";
-export { SignupScreen }
+import { LoginScreen } from "./LoginScreen";
+import { ForgotPasswordScreen } from "./ForgotPasswordScreen";
+export { SignupScreen, LoginScreen, ForgotPasswordScreen }
